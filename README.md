@@ -14,7 +14,7 @@
 
 # Functionality
 
-- The program allows employee details to be entered, and then stored inside a table containing all other employees
+- The program allows employee details to be entered and then stored inside a table containing all other employees
 - The database supports insertion, edit, and deletion of any entry
 - Database query is done on a separate thread in order to not freeze the UI
 
@@ -22,5 +22,5 @@
 - Application functionality is limited because it was implemented during an internship and the server which ran the database was local to the building. Code needs to be refactored in order to make it functional
 - UI is not well designed - this was the project in which I first learned to use **WPF/XAML**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDA4MzU5MCwtNDQ4Mjk2MjE5XX0=
+eyJoaXN0b3J5IjpbLTEyNTU1OTk1MTYsLTQ0ODI5NjIxOV19
 -->

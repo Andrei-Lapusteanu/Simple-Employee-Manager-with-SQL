@@ -19,7 +19,8 @@
 - Database query is done on a separate thread in order to not freeze the UI
 
 ## Important
-Application functionality is limited because it was implemented during an internship and the server which ran the database was local to the building. Code needs to be refactored in order to make it functional
+- Application functionality is limited because it was implemented during an internship and the server which ran the database was local to the building. Code needs to be refactored in order to make it functional
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUxNDI4MjgsLTQ0ODI5NjIxOV19
+eyJoaXN0b3J5IjpbLTM0MzY3NjQ1MiwtNDQ4Mjk2MjE5XX0=
 -->

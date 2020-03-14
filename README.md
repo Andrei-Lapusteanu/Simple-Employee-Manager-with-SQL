@@ -3,6 +3,7 @@
 ## Summary
 
  Application which enables simple management of an employee database
+ 
 <a href="https://imgur.com/NJlyq53"><img src="https://i.imgur.com/NJlyq53.png" title="source: imgur.com" /></a><br>
 **App UI**
 
@@ -22,5 +23,5 @@
 - Application functionality is limited because it was implemented during an internship and the server which ran the database was local to the building. Code needs to be refactored in order to make it functional
 - UI is not well designed - this was the project in which I first learned to use **WPF/XAML**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDg4MTkxOCwtNDQ4Mjk2MjE5XX0=
+eyJoaXN0b3J5IjpbMTExMTEzOTAzNCwtNDQ4Mjk2MjE5XX0=
 -->
